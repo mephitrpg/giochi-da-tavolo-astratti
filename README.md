@@ -5,10 +5,10 @@ Giochi da tavolo astratti economici e Fai-da-te
 Questo progetto nasce dallo sdegno nel vedere i classici set di "Giochi Riuniti" attualmente in commercio.  
 Quando si legge di decine o centinaia di giochi, la maggior parte viene fatta con un mazzo da 54 carte da gioco francesi o con componenti che probabilmente ho già: perchè ricomprarli?  
 Oltretutto, questi componenti sono spesso di scarsa qualità e in versione ridotta: 1 mazzo di carte francesi anzichè 2, domino 28 pezzi anzichè 91 (o 55, o più), shanghai 31 pezzi anzichè 41, jenga 48 pezzi anzichè 54, ecc.  
-Molti giochi sono per soli 2 giocatori, perciò per far giocare più persone contemporaneamente, oltre ai classici giochi di carte vengono aggiunti i noiosissimi "Ludo", "Scale e Serpenti", "Gioco dell'Oca", anche perchè ormai di dominio pubblico: ma esistono giochi moderni migliori.  
+Molti giochi sono per soli 2 giocatori, perciò per far giocare più persone contemporaneamente, oltre ai classici giochi di carte vengono aggiunti i noiosissimi "Ludo", "Scale e Serpenti", "Gioco dell'Oca", anche perchè ormai di dominio pubblico: mi rifiuto di metterli in questa raccolta, esistono giochi moderni migliori. Se propvio volete, potete integrarli voi facilmente.
 
 ## Set base
-- https://www.amazon.it/gp/product/B08SBNNX8N (gettate i tabelloni, stampate questi: (mettere link))
+- https://www.amazon.it/gp/product/B08SBNNX8N (ho gettato i tabelloni e stampato questi: (mettere link))
   - Dama
   - Scacchi
   - Molino
