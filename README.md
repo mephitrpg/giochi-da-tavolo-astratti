@@ -65,7 +65,10 @@ In caroleria comprare:
   - https://www.aliexpress.com/item/1005002488483402.html
   - Forza 4
 - Biglie (quelle di vetro sono bellissime e consigliate, ma pesano)
-  - 16mm, 2 set da 60 https://www.amazon.it/Yellow-Mountain-Imports-Biglie-Cinese/dp/B01LYO3K8L
+  - Pozioni Esplosive, 16mm, 20 x 4 colori
+    -  https://www.amazon.it/Ghenos-Games-Pozioni-Esplosive-Edizione/dp/B07JP3CXLK
+    -  ognuna delle due espansioni aggiunge 12 biglie di un nuovo colore
+  - 16mm, set da 10 x 6 colori (comprane due!) https://www.amazon.it/Yellow-Mountain-Imports-Biglie-Cinese/dp/B01LYO3K8L
     - Solitario della Bastiglia
     - Mancala
     - Abalone
