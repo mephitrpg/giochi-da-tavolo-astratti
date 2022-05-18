@@ -53,7 +53,8 @@ In caroleria comprare:
     - Perudo
     - Yahtzee
     - Ganz Schön Clever
-- Go
+- Go https://it.aliexpress.com/item/1005001874500099.html
+  - (oppure cubetti 8mm)
   - Gobang
   - Hex
 - Reversi
