@@ -22,7 +22,7 @@ Tabelloni stampabili:
 (link)
 
 Scacchiera magnetica:
-- Lexibook, 8 Giochi in 1 https://www.amazon.it/gp/product/B08SBNNX8N (getta i tabelloni)
+- Lexibook, 8 Giochi in 1 https://www.amazon.it/gp/product/B08SBNNX8N (getta i tabelloni nella spazzatura)
 
 In caroleria comprare:
 - https://www.amazon.it/Esselte-Protocollo-390775160-Raccoglitore-meccanismo/dp/B007ISVPF6
