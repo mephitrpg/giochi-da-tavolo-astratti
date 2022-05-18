@@ -9,9 +9,13 @@ Molti giochi sono per soli 2 giocatori, perciò per far giocare più persone con
 
 ## Set base
 - https://www.amazon.it/gp/product/B08SBNNX8N (gettate i tabelloni, stampate questi: (mettere link))
-  - Dama cinese
-  - Xiangqi, "Scacchi cinesi"
+  - Dama
+  - Scacchi
+  - Molino
   - Backgammon
+  - Dama cinese
+  - Scacchi cinesi (Xiangqi)
+  - Can't Stop
 
 In caroleria comprare:
 
@@ -20,18 +24,36 @@ In caroleria comprare:
 - copertina trasparente A3 per rilegatura a spirale, da tagliare quadrata
 
 ## Espansoni
-- Carte francesi
+- Carte francesi, 2 mazzi da 54
+  - Poker
+  - Scala 40
+  - Macchiavelli
+  - Burraco
+  - Uno
+  - Regicide
 - Carte regionali
+  - Scopa
+  - Briscola
+  - Rubamazzo
 - Tarocchi
+  - Gioco dei tarocchi
 - Dadi
   - 8mm https://it.aliexpress.com/item/1005001711632152.html
     - Perudo
     - Yahtzee
+  - 16mm https://www.amazon.it/Lvcky-punteggiati-Sacchetti-Velluto-Assortiti/dp/B07P3LB2SK
+    - Perudo
+    - Yahtzee
+    - Ganz Schön Clever
 - Reversi
   - https://www.aliexpress.com/item/1005002488483402.html
+  - Forza 4 (serve una board)
 - Biglie
   - 16mm, 2 set da 60 https://www.amazon.it/Yellow-Mountain-Imports-Biglie-Cinese/dp/B01LYO3K8L
-  - Shibumi https://www.nestorgames.com/rulebooks/SHIBUMI_EN.pdf
+    - Solitario della Bastiglia
+    - Mancala (serve una board)
+    - 
+    - Shibumi https://www.nestorgames.com/rulebooks/SHIBUMI_EN.pdf
 - Shangai
   - https://www.toyscenter.it/prodotto/zig-zag-clas-mikado-legno-26cm
   - https://www.amazon.it/Grandi-Giochi-95002-GG95002-Mikado/dp/B00ECV85FA
