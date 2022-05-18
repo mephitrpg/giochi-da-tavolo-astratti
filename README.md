@@ -68,7 +68,7 @@ In caroleria comprare:
   - Pozioni Esplosive, 16mm acrilico, 20 x 4 colori = 80
     -  https://www.amazon.it/Ghenos-Games-Pozioni-Esplosive-Edizione/dp/B07JP3CXLK
     -  ognuna delle due espansioni aggiunge 12 biglie di un nuovo colore
-  - 16mm vetro, set da 10 x 6 colori = 60 (comprane due!) https://www.amazon.it/Yellow-Mountain-Imports-Biglie-Cinese/dp/B01LYO3K8L
+  - 16mm vetro, set da 10 x 6 colori = 60 (compra due set!) https://www.amazon.it/Yellow-Mountain-Imports-Biglie-Cinese/dp/B01LYO3K8L
     - Solitario della Bastiglia
     - Mancala
     - Abalone
