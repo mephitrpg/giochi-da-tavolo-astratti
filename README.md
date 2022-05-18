@@ -8,8 +8,8 @@ Oltretutto, questi componenti sono spesso di scarsa qualità e in versione ridot
 Molti giochi sono per soli 2 giocatori, perciò per far giocare più persone contemporaneamente, oltre ai classici giochi di carte vengono aggiunti i noiosissimi "Ludo", "Scale e Serpenti", "Gioco dell'Oca", anche perchè ormai di dominio pubblico: ma esistono giochi moderni migliori.  
 
 ## Set base
-https://www.amazon.it/gp/product/B08SBNNX8N
-https://www.aliexpress.com/item/1005002488483402.html
+- https://www.amazon.it/gp/product/B08SBNNX8N
+- https://www.aliexpress.com/item/1005002488483402.html
 
 In caroleria comprare:
 
