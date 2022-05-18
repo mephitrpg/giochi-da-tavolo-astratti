@@ -13,6 +13,8 @@ Molti giochi sono per soli 2 giocatori, perciò per far giocare più persone con
 Alcuni esempi: 
   - Plop di Alex Randolph
 
+Dato che urante il gioco potrebbe essere necessario spostarsi, oppure un urto potrebbe spostare i pezzi mandando a monte la partita, questo progetto predilige l'uso di componenti magnetiche.
+
 ## Set base
 - Lexibook, 8 Giochi in 1 https://www.amazon.it/gp/product/B08SBNNX8N (ho gettato i tabelloni e stampato questi: (mettere link))
   - Dama
