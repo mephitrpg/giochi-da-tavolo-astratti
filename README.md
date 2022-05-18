@@ -64,7 +64,7 @@ In caroleria comprare:
 - Reversi
   - https://www.aliexpress.com/item/1005002488483402.html
   - Forza 4
-- Biglie
+- Biglie (quelle di vetro sono bellissime e consigliate, ma pesano)
   - 16mm, 2 set da 60 https://www.amazon.it/Yellow-Mountain-Imports-Biglie-Cinese/dp/B01LYO3K8L
     - Solitario della Bastiglia
     - Mancala
