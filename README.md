@@ -15,7 +15,7 @@ Esistono giochi astratti moderni e divertenti, dai più semplici ai più comples
 Alcuni esempi: 
   - Plop di Alex Randolph
 
-Dato che urante il gioco potrebbe essere necessario liberare il tavolo, oppure un urto potrebbe spostare i pezzi mandando a monte la partita, questo progetto predilige l'uso di componenti magnetiche, utili anche in viaggio.
+Questo progetto predilige l'uso di componenti magnetiche per essere più fruibile da bambini e ragazzini, dato che mentre giocano potrebbe essere chiesto loro di spostarsi, o che un urto potrebbe mandare a monte la partita. Senza contare che si tratta di una caratteristica utile anche in viaggio.
 
 ## Set base
 Tabelloni stampabili:
