@@ -8,11 +8,7 @@ Decine, centinaia di giochi in una scatola? Sì, ma la maggior parte viene fatta
 
 Oltretutto, questi componenti sono spesso di scarsa qualità e in versione ridotta: 1 mazzo di carte francesi anzichè 2, domino 28 pezzi anzichè 91 (o 55, o più), shanghai 31 pezzi anzichè 41, jenga 48 pezzi anzichè 54, ecc.
 
-Molti giochi sono per soli 2 giocatori, perciò per far giocare più persone contemporaneamente, oltre ai classici giochi di carte vengono aggiunti i noiosissimi "Ludo", "Scale e Serpenti", "Gioco dell'Oca", anche perchè ormai di dominio pubblico (i produttori non pagano diritti). Mi rifiuto di inserirli in questa raccolta: se proprio vorrete, potrete integrarli voi.
-
-"Tanto i bambini ci giocano lo stesso": no, spesso fanno una partita e poi li lasciano lì! Perchè non dar loro direttamente un'esperienza più coinvolgente e divertente? Inoltre, se i bambini vogliono giocare anche coi grandi, questi moriranno di noia, e i bambini lo percepiranno, ve l'assicuro! 
-
-Esistono piuttosto giochi moderni migliori, alcuni introvabili ma facimente ricreabili. 
+Molti giochi sono per soli 2 giocatori, perciò per far giocare più persone contemporaneamente, oltre ai classici giochi di carte vengono aggiunti i noiosissimi "Ludo", "Scale e Serpenti", "Gioco dell'Oca", anche perchè ormai di dominio pubblico. Mi rifiuto di inserirli in questa raccolta: se proprio vorrete, potrete integrarli voi. Esistono piuttosto giochi moderni migliori, alcuni introvabili ma facimente ricreabili. 
 
 Alcuni esempi: 
   - Plop di Alex Randolph
@@ -63,6 +59,7 @@ In caroleria comprare:
   - 16mm, 2 set da 60 https://www.amazon.it/Yellow-Mountain-Imports-Biglie-Cinese/dp/B01LYO3K8L
     - Solitario della Bastiglia
     - Mancala
+    - Abalone
     - Shibumi https://www.nestorgames.com/rulebooks/SHIBUMI_EN.pdf
 - Shangai
   - https://www.toyscenter.it/prodotto/zig-zag-clas-mikado-legno-26cm
