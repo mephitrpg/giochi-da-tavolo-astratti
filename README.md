@@ -67,6 +67,7 @@ In caroleria comprare:
   - https://www.toyscenter.it/prodotto/mikado
 - Domino
   - set double-12 https://www.amazon.it/gp/product/B000Z6SA3I
+    - Mexican Train
 
 ## PnP (Print & Play - Stampa e gioca) e DIY (Fai da te - Do It Yourself)
 Si possono usare cartoncino spesso, carta adesiva A4, forex/foamcore, legno, stampa 3D, ecc
