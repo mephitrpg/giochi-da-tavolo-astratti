@@ -30,7 +30,7 @@ In caroleria comprare:
 - Reversi
   - https://www.aliexpress.com/item/1005002488483402.html
 - Biglie
-  - 2 set da 60 https://www.amazon.it/Yellow-Mountain-Imports-Biglie-Cinese/dp/B01LYO3K8L
+  - 16mm, 2 set da 60 https://www.amazon.it/Yellow-Mountain-Imports-Biglie-Cinese/dp/B01LYO3K8L
   - Shibumi https://www.nestorgames.com/rulebooks/SHIBUMI_EN.pdf
 - Shangai
   - https://www.toyscenter.it/prodotto/zig-zag-clas-mikado-legno-26cm
