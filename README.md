@@ -92,7 +92,7 @@ Giochi:
     - Mexican Train
 
 ## PnP (Print & Play - Stampa e gioca) e DIY (Fai da te - Do It Yourself)
-È possibile realizzare in casa giochi scaricabili gratuitamente, ma anche versioni alternative dei giochi che si possiedono, così da poterli aggiungere a questa raccolta. Potete addirittura aggiungere direttamente i giochi acquistati: Splendor ad esempio ha una scatola grande, ma le sue componenti occupano pochissimo spazio.
+È possibile realizzare in casa giochi scaricabili gratuitamente, ma anche versioni alternative dei giochi che si possiedono, così da poterli aggiungere a questa raccolta. Potete addirittura aggiungere direttamente i vostri giochi: Splendor ad esempio ha una scatola grande, ma le sue componenti occupano pochissimo spazio.
 
 Si possono usare i materiali più disparati: cartone, carta adesiva, forex/foamcore, legno, stampa 3D, ecc.
 
