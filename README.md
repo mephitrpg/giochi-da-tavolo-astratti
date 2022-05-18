@@ -60,7 +60,7 @@ In caroleria comprare:
 - Domino
   - set double-12 https://www.amazon.it/gp/product/B000Z6SA3I
 
-## Print & Play
+## Print & Play and DIY
 - Everdeck https://thewrongtools.wordpress.com/2019/10/10/the-everdeck/
 - Decktet https://www.decktet.com
 - Piecepack https://piecepack.net
