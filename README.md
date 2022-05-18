@@ -15,7 +15,7 @@ Esistono giochi moderni e divertenti, dai più semplici ai più complessi, alcun
 Alcuni esempi: 
   - Plop di Alex Randolph
 
-Dato che urante il gioco potrebbe essere necessario spostarsi, oppure un urto potrebbe spostare i pezzi mandando a monte la partita, questo progetto predilige l'uso di componenti magnetiche, utili anche in viaggio.
+Dato che urante il gioco potrebbe essere necessario liberare il tavolo, oppure un urto potrebbe spostare i pezzi mandando a monte la partita, questo progetto predilige l'uso di componenti magnetiche, utili anche in viaggio.
 
 ## Set base
 Tabelloni stampabili:
