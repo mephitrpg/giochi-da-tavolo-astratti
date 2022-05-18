@@ -10,7 +10,7 @@ Oltretutto, questi componenti sono spesso di scarsa qualità e in versione ridot
 
 Molti giochi sono per soli 2 giocatori, perciò per far giocare più persone contemporaneamente, oltre ai classici giochi di carte vengono aggiunti i noiosissimi "Ludo", "Scale e Serpenti", "Gioco dell'Oca", anche perchè sono di dominio pubblico. Mi rifiuto di inserirli in questa raccolta: se proprio lo vorrete, lo potrete fare voi.
 
-Esistono giochi moderni e divertenti, dai più semplici ai più complessi, alcuni addirittura introvabili ma facimente ricreabili. 
+Esistono giochi astratti moderni e divertenti, dai più semplici ai più complessi, alcuni addirittura introvabili ma facimente ricreabili. 
 
 Alcuni esempi: 
   - Plop di Alex Randolph
@@ -88,7 +88,7 @@ Giochi:
   - https://www.amazon.it/Grandi-Giochi-95002-GG95002-Mikado/dp/B00ECV85FA
   - https://www.toyscenter.it/prodotto/mikado
 - Domino
-  - set 1"x2" double-12 https://www.amazon.it/gp/product/B000Z6SA3I
+  - 1"x2", set double-12 https://www.amazon.it/gp/product/B000Z6SA3I
     - Mexican Train
 
 ## PnP (Print & Play - Stampa e gioca) e DIY (Fai da te - Do It Yourself)
