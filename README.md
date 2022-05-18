@@ -8,7 +8,7 @@ Decine, centinaia di giochi in una scatola? Sì, ma la maggior parte viene fatta
 
 Oltretutto, questi componenti sono spesso di scarsa qualità e in versione ridotta: 1 mazzo di carte francesi anzichè 2, domino 28 pezzi anzichè 91 (o 55, o più), shanghai 31 pezzi anzichè 41, jenga 48 pezzi anzichè 54, ecc.
 
-Molti giochi sono per soli 2 giocatori, perciò per far giocare più persone contemporaneamente, oltre ai classici giochi di carte vengono aggiunti i noiosissimi "Ludo", "Scale e Serpenti", "Gioco dell'Oca", anche perchè ormai di dominio pubblico. Sì, lo so, "tanto i bambini ci giocano lo stesso", ma perchè non dar loro direttamente un'esperienza migliore? Inoltre, se i bambini vogliono giocare anche coi grandi, questi moriranno di noia, e i bambini lo percepiranno, ve l'assicuro! Mi rifiuto quindi di inserirli in questa raccolta: esistono giochi moderni migliori. Se proprio volete, potete integrarli voi facilmente.
+Molti giochi sono per soli 2 giocatori, perciò per far giocare più persone contemporaneamente, oltre ai classici giochi di carte vengono aggiunti i noiosissimi "Ludo", "Scale e Serpenti", "Gioco dell'Oca", anche perchè ormai di dominio pubblico (i produttori non pagano diritti). Sì, lo so, "tanto i bambini ci giocano lo stesso", ma perchè non dar loro direttamente un'esperienza migliore? Inoltre, se i bambini vogliono giocare anche coi grandi, questi moriranno di noia, e i bambini lo percepiranno, ve l'assicuro! Mi rifiuto quindi di inserirli in questa raccolta: esistono giochi moderni migliori. Se proprio volete, potete integrarli voi facilmente.
 
 ## Set base
 - https://www.amazon.it/gp/product/B08SBNNX8N (ho gettato i tabelloni e stampato questi: (mettere link))
