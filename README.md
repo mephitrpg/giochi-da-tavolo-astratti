@@ -47,12 +47,11 @@ In caroleria comprare:
     - Ganz Schön Clever
 - Reversi
   - https://www.aliexpress.com/item/1005002488483402.html
-  - Forza 4 (serve una board)
+  - Forza 4
 - Biglie
   - 16mm, 2 set da 60 https://www.amazon.it/Yellow-Mountain-Imports-Biglie-Cinese/dp/B01LYO3K8L
     - Solitario della Bastiglia
-    - Mancala (serve una board)
-    - 
+    - Mancala
     - Shibumi https://www.nestorgames.com/rulebooks/SHIBUMI_EN.pdf
 - Shangai
   - https://www.toyscenter.it/prodotto/zig-zag-clas-mikado-legno-26cm
