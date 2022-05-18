@@ -102,7 +102,7 @@ Conoscere l'inglese è quasi indispensabile, e saper usare Photoshop aiuta parec
 - Decktet https://www.decktet.com
 - Piecepack https://piecepack.net
 - Looney Pyramids https://www.looneylabs.com/pyramids-home
-- Shogi
+- Scacchi giapponesi (Shogi)
 - Domino
 - Scamorra.com
 - Onitama
