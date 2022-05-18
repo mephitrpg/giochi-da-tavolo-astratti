@@ -18,21 +18,27 @@ Alcuni esempi:
 Dato che urante il gioco potrebbe essere necessario spostarsi, oppure un urto potrebbe spostare i pezzi mandando a monte la partita, questo progetto predilige l'uso di componenti magnetiche, utili anche in viaggio.
 
 ## Set base
-- Lexibook, 8 Giochi in 1 https://www.amazon.it/gp/product/B08SBNNX8N (ho gettato i tabelloni e stampato questi: (mettere link))
-  - Dama
-  - Scacchi
-  - Molino
-  - Backgammon
-  - Dama cinese
-  - Scacchi cinesi (Xiangqi)
-  - Can't Stop (solo 2 giocatori)
-  - Tic-Tac-Toe
+Tabelloni stampabili:
+(link)
+
+Scacchiera magnetica:
+- Lexibook, 8 Giochi in 1 https://www.amazon.it/gp/product/B08SBNNX8N (ho gettato i tabelloni)
 
 In caroleria comprare:
-
 - https://www.amazon.it/Esselte-Protocollo-390775160-Raccoglitore-meccanismo/dp/B007ISVPF6
 - buste ad anelli
 - copertina trasparente A3 per rilegatura a spirale, da tagliare quadrata
+
+
+Giochi:
+- Dama
+- Scacchi
+- Molino
+- Backgammon
+- Dama cinese
+- Scacchi cinesi (Xiangqi)
+- Can't Stop (solo 2 giocatori)
+- Tic-Tac-Toe
 
 ## Espansoni
 - Carte francesi, 2 mazzi da 54
