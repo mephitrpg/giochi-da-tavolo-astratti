@@ -60,9 +60,12 @@ In caroleria comprare:
 - Domino
   - set double-12 https://www.amazon.it/gp/product/B000Z6SA3I
 
-## Print & Play and DIY
+## PnP (Print & Play - Stampa e gioca) e DIY (Fai da te - Do It Yourself)
+Si possono usare cartoncino spesso, carta adesiva A4, forex/foamcore, legno, stampa 3D, ecc
+
 - Everdeck https://thewrongtools.wordpress.com/2019/10/10/the-everdeck/
 - Decktet https://www.decktet.com
 - Piecepack https://piecepack.net
 - Looney Pyramids https://www.looneylabs.com/pyramids-home
 - Shogi
+- Domino
