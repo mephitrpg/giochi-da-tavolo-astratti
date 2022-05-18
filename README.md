@@ -9,10 +9,14 @@ Molti giochi sono per soli 2 giocatori, perciò per far giocare più persone con
 
 ## Set base
 - https://www.amazon.it/gp/product/B08SBNNX8N
-- https://www.aliexpress.com/item/1005002488483402.html
 
 In caroleria comprare:
 
 - https://www.amazon.it/Esselte-Protocollo-390775160-Raccoglitore-meccanismo/dp/B007ISVPF6
 - buste ad anelli
 - copertina trasparente A3 per rilegatura a spirale
+
+## Set espanso
+- Dadi 8mm https://it.aliexpress.com/item/1005001711632152.html
+- Reversi https://www.aliexpress.com/item/1005002488483402.html
+- Biglie, 2 set da 60 https://www.amazon.it/Yellow-Mountain-Imports-Biglie-Cinese/dp/B01LYO3K8L
