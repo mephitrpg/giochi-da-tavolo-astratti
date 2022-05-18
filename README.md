@@ -10,7 +10,9 @@ Molti giochi sono per soli 2 giocatori, perciò per far giocare più persone con
 ## Set base
 https://www.amazon.it/gp/product/B08SBNNX8N
 https://www.aliexpress.com/item/1005002488483402.html
-- In caroleria comprare
+
+In caroleria comprare:
+
 - https://www.amazon.it/Esselte-Protocollo-390775160-Raccoglitore-meccanismo/dp/B007ISVPF6
 - buste ad anelli
 - copertina trasparente A3 per rilegatura a spirale
