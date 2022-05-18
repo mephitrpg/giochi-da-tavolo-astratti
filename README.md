@@ -67,6 +67,10 @@ Giochi:
   - https://it.aliexpress.com/item/1005001874500099.html
   - Gobang
   - Hex
+- Pedine colorate
+  - Codice segreto travel, 10 x 6 colori + segnalini B/W (compra 2 set!) https://www.amazon.it/Purple-Codice-Segreto-Magnetico-7290016026900/dp/B085272WHQ
+    - Codice segreto (perchè la versione classica ha 12 righe non 10 come i set di cui sopra)
+    - Can't Stop
 - Reversi
   - https://www.aliexpress.com/item/1005002488483402.html
   - Forza 4
