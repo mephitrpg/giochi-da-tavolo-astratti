@@ -16,7 +16,11 @@ In caroleria comprare:
 - buste ad anelli
 - copertina trasparente A3 per rilegatura a spirale
 
-## Set espanso
+## Espansoni
 - Dadi 8mm https://it.aliexpress.com/item/1005001711632152.html
 - Reversi https://www.aliexpress.com/item/1005002488483402.html
 - Biglie, 2 set da 60 https://www.amazon.it/Yellow-Mountain-Imports-Biglie-Cinese/dp/B01LYO3K8L
+- Shanghai A https://www.amazon.it/Grandi-Giochi-95002-GG95002-Mikado/dp/B00ECV85FA
+- Shanghai B https://www.toyscenter.it/prodotto/zig-zag-clas-mikado-legno-26cm
+- Shanghai C https://www.toyscenter.it/prodotto/mikado
+- Domino https://www.amazon.it/gp/product/B000Z6SA3I
