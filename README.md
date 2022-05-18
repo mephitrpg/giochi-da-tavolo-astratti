@@ -14,7 +14,7 @@ Alcuni esempi:
   - Plop di Alex Randolph
 
 ## Set base
-- https://www.amazon.it/gp/product/B08SBNNX8N (ho gettato i tabelloni e stampato questi: (mettere link))
+- Lexibook, 8 Giochi in 1 https://www.amazon.it/gp/product/B08SBNNX8N (ho gettato i tabelloni e stampato questi: (mettere link))
   - Dama
   - Scacchi
   - Molino
