@@ -88,7 +88,7 @@ Giochi:
   - https://www.amazon.it/Grandi-Giochi-95002-GG95002-Mikado/dp/B00ECV85FA
   - https://www.toyscenter.it/prodotto/mikado
 - Domino
-  - set double-12 https://www.amazon.it/gp/product/B000Z6SA3I
+  - set 1"x2" double-12 https://www.amazon.it/gp/product/B000Z6SA3I
     - Mexican Train
 
 ## PnP (Print & Play - Stampa e gioca) e DIY (Fai da te - Do It Yourself)
