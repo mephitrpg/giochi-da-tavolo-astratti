@@ -56,10 +56,10 @@ Giochi:
 - Tarocchi
   - Gioco dei tarocchi
 - Dadi
-  - 8mm https://it.aliexpress.com/item/1005001711632152.html
+  - 8mm, bianchi https://it.aliexpress.com/item/1005001711632152.html
     - Perudo
     - Yahtzee
-  - 16mm https://www.amazon.it/Lvcky-punteggiati-Sacchetti-Velluto-Assortiti/dp/B07P3LB2SK
+  - 16mm, colorati https://www.amazon.it/Lvcky-punteggiati-Sacchetti-Velluto-Assortiti/dp/B07P3LB2SK
     - Perudo
     - Yahtzee
     - Ganz Schön Clever
