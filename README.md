@@ -73,7 +73,7 @@ In caroleria comprare:
 ## PnP (Print & Play - Stampa e gioca) e DIY (Fai da te - Do It Yourself)
 È possibile realizzare giochi gratuiti o versioni alternative dei giochi che già possedete così da poterli aggiungere a questa raccolta.
 Si possono usare i materiali più disparati: cartone, carta adesiva, forex/foamcore, legno, stampa 3D, ecc.
-Conoscere l'inglese è quasi indispensabile, e saper usare Photoshop aiuta.
+Conoscere l'inglese è quasi indispensabile, e saper usare Photoshop aiuta parecchio.
 
 - Everdeck https://thewrongtools.wordpress.com/2019/10/10/the-everdeck/
 - Decktet https://www.decktet.com
