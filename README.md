@@ -100,6 +100,11 @@ Si possono usare i materiali più disparati: cartone, carta adesiva, forex/foamc
 Conoscere l'inglese è quasi indispensabile, e saper usare Photoshop aiuta parecchio.
 
 - Everdeck https://thewrongtools.wordpress.com/2019/10/10/the-everdeck/
+  - Memory
+  - Tombola
+  - The Game
+  - The Mind
+  - https://boardgamegeek.com/geeklist/230703/games-playable-everdeck
 - Decktet https://www.decktet.com
 - Piecepack https://piecepack.net
 - Looney Pyramids https://www.looneylabs.com/pyramids-home
