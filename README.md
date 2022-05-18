@@ -1,5 +1,5 @@
 # Giochi da tavolo astratti
-Giochi da tavolo astratti economici e Fai-da-te
+Giochi da tavolo astratti economici, riutilizzabili e Fai-da-te
 
 ## Perchè
 Questo progetto nasce dallo sdegno nel vedere i classici set di "Giochi Riuniti" attualmente in commercio.  
