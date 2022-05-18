@@ -74,7 +74,7 @@ In caroleria comprare:
     - Mexican Train
 
 ## PnP (Print & Play - Stampa e gioca) e DIY (Fai da te - Do It Yourself)
-È possibile realizzare giochi gratuiti pubblicati in rete, ma anche versioni alternative dei giochi che si possiedono, così da poterli aggiungere a questa raccolta.
+È possibile realizzare in casa giochi scaricabili gratuitamente, ma anche versioni alternative dei giochi che si possiedono, così da poterli aggiungere a questa raccolta.
 Si possono usare i materiali più disparati: cartone, carta adesiva, forex/foamcore, legno, stampa 3D, ecc.
 Conoscere l'inglese è quasi indispensabile, e saper usare Photoshop aiuta parecchio.
 
