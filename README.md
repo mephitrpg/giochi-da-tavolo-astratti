@@ -1,2 +1,2 @@
 # Giochi da tavolo astratti
-Giochi da tavolo astratti fai-da-te
+Giochi da tavolo astratti economici Fai-Da-Te
