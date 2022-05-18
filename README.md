@@ -21,7 +21,7 @@ Alcuni esempi:
   - Backgammon
   - Dama cinese
   - Scacchi cinesi (Xiangqi)
-  - Can't Stop
+  - Can't Stop (solo 2 giocatori)
   - Tic-Tac-Toe
 
 In caroleria comprare:
