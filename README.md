@@ -13,8 +13,9 @@ Per far giocare più di 2 giocatori contemporaneamente, oltre ai classici giochi
 Esistono giochi astratti moderni e divertenti, dai più semplici ai più complessi, alcuni addirittura introvabili ma facimente ricreabili. 
 
 Alcuni esempi: 
-  - Plop di Alex Randolph
-  - La Scamorra di Ivan Preziosi
+  - Plop, di Alex Randolph
+  - La Scamorra, di Ivan Preziosi
+  - Regicide
 
 Questo progetto predilige l'uso di componenti magnetiche per essere più fruibile da bambini e ragazzini, dato che mentre giocano potrebbe essere chiesto loro di spostarsi, o che un urto potrebbe mandare a monte la partita. Senza contare che si tratta di una caratteristica utile anche in viaggio.
 
