@@ -6,7 +6,7 @@ Questo progetto nasce dallo sdegno nel vedere i classici set di "Giochi Riuniti"
 
 Decine, centinaia di giochi in una scatola? Sì, ma la maggior parte viene fatta con un mazzo da 54 carte da gioco francesi o con componenti che probabilmente posseggo già: perchè ricomprarli?
 
-Oltretutto, questi componenti sono spesso di scarsa qualità e in versione ridotta: 1 mazzo di carte francesi anzichè 2, domino 28 pezzi anzichè 91 (o 55, o più), shanghai 31 pezzi anzichè 41, jenga 48 pezzi anzichè 54, ecc.
+Oltretutto, questi componenti sono spesso di scarsa qualità e in versione ridotta: carte francesi 1 mazzo anzichè 2, domino 28 pezzi anzichè 91 (o 55, o più), shanghai 31 pezzi anzichè 41, jenga 48 pezzi anzichè 54, ecc.
 
 Molti giochi sono per soli 2 giocatori, perciò per far giocare più persone contemporaneamente, oltre ai classici giochi di carte vengono aggiunti i noiosissimi "Ludo", "Scale e Serpenti", "Gioco dell'Oca", anche perchè sono di dominio pubblico. Mi rifiuto di inserirli in questa raccolta: se proprio lo vorrete, lo potrete fare voi.
 
@@ -88,6 +88,7 @@ Giochi:
   - https://www.toyscenter.it/prodotto/zig-zag-clas-mikado-legno-26cm
   - https://www.amazon.it/Grandi-Giochi-95002-GG95002-Mikado/dp/B00ECV85FA
   - https://www.toyscenter.it/prodotto/mikado
+- Jenga
 - Domino
   - 1"x2", set double-12 https://www.amazon.it/gp/product/B000Z6SA3I
     - Mexican Train
