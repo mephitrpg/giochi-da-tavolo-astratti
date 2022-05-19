@@ -2,7 +2,7 @@
 Giochi da tavolo astratti economici, riutilizzabili e fai-da-te
 
 ## Perchè
-Questo progetto nasce dallo sdegno nel vedere i classici set di "Giochi Riuniti" attualmente in commercio.
+Questo progetto nasce dallo sdegno nel vedere le scatole di "Giochi Riuniti" attualmente in commercio.
 
 Decine, centinaia di giochi in una scatola? Sì, ma la maggior parte viene fatta con un mazzo da 54 carte da gioco francesi o con componenti che probabilmente posseggo già: perchè ricomprarli?
 
