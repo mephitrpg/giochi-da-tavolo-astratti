@@ -65,6 +65,7 @@ Giochi:
     - Ganz Schön Clever
 - Go (oppure cubetti 8mm)
   - https://it.aliexpress.com/item/1005001874500099.html
+  - https://www.ebay.it/itm/393094935426
   - Gobang
   - Hex
 - Pedine colorate
