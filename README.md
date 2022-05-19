@@ -8,7 +8,7 @@ Decine, centinaia di giochi in una scatola? Sì, ma la maggior parte viene fatta
 
 Oltretutto, questi componenti sono spesso di scarsa qualità e in versione ridotta: carte francesi 1 mazzo anzichè 2, domino 28 pezzi anzichè 91 (o 55, o più), shanghai 31 pezzi anzichè 41, jenga 48 pezzi anzichè 54, ecc.
 
-Molti giochi sono per soli 2 giocatori, perciò per far giocare più persone contemporaneamente, oltre ai classici giochi di carte vengono aggiunti i noiosissimi "Ludo", "Scale e Serpenti", "Gioco dell'Oca", anche perchè sono di dominio pubblico. Mi rifiuto di inserirli in questa raccolta: se proprio lo vorrete, lo potrete fare voi.
+Per far giocare più di 2 giocatori contemporaneamente, oltre ai classici giochi di carte vengono aggiunti i noiosissimi "Ludo", "Scale e Serpenti", "Gioco dell'Oca" e così via, anche perchè si tratta di giochi di dominio pubblico. Mi rifiuto di inserirli in questa raccolta: se proprio lo vorrete, lo potrete fare voi.
 
 Esistono giochi astratti moderni e divertenti, dai più semplici ai più complessi, alcuni addirittura introvabili ma facimente ricreabili. 
 
