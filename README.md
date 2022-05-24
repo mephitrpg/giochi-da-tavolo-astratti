@@ -105,9 +105,9 @@ Conoscere l'inglese è quasi indispensabile, e saper usare Photoshop aiuta parec
 
 - Everdeck https://thewrongtools.wordpress.com/2019/10/10/the-everdeck/
   - Memory
-  - Tombola
-  - The Game
-  - The Mind
+  - Bingo
+  - Giochi con le carte dei Tarocchi
+  - Giochi con le carte Hanafuda
   - https://boardgamegeek.com/geeklist/230703/games-playable-everdeck
 - Decktet https://www.decktet.com
 - Piecepack https://piecepack.net
