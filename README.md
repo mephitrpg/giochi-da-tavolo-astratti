@@ -81,7 +81,8 @@ Giochi:
 - Biglie (quelle di vetro sono bellissime e consigliate, ma pesano)
   - Pozioni Esplosive, 16mm acrilico, 20 x 4 colori = 80
     -  https://www.amazon.it/Ghenos-Games-Pozioni-Esplosive-Edizione/dp/B07JP3CXLK
-    -  ognuna delle due espansioni aggiunge 12 biglie di un nuovo colore
+    -  espansione Il 5° Ingrediente: 12 biglie bianche
+    -  espansione Il 6° Studente: 12 biglie verdi
   - 16mm vetro, set da 10 x 6 colori = 60 (compra due set!) https://www.amazon.it/Yellow-Mountain-Imports-Biglie-Cinese/dp/B01LYO3K8L
     - Solitario della Bastiglia
     - Mancala
