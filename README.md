@@ -94,6 +94,7 @@ Giochi:
   - https://www.amazon.it/Grandi-Giochi-95002-GG95002-Mikado/dp/B00ECV85FA
   - https://www.toyscenter.it/prodotto/mikado
 - Jenga
+  - https://www.amazon.it/Hasbro-Gaming-Jenga-Scatola-A2120EU4/dp/B077PD5W25/
 - Domino
   - 1"x2", set double-12 https://www.amazon.it/gp/product/B000Z6SA3I
     - Mexican Train
