@@ -104,11 +104,11 @@ Si possono usare i materiali più disparati: cartone, carta adesiva, forex/foamc
 
 Conoscere l'inglese è quasi indispensabile, e saper usare Photoshop aiuta parecchio.
 
-- Everdeck
-Sito ufficiale: https://thewrongtools.wordpress.com/2019/10/10/the-everdeck/
-Download bassa qualità: https://boardgamegeek.com/filepage/210652/cards
-Compra alta qualità: https://www.drivethrucards.com/product/291492/The-Everdeck
-Compra già pronto: https://www.makeplayingcards.com/sell/marketplace/the-everdeck.html
+- Everdeck  
+Sito ufficiale: https://thewrongtools.wordpress.com/2019/10/10/the-everdeck/  
+Download bassa qualità: https://boardgamegeek.com/filepage/210652/cards  
+Compra alta qualità: https://www.drivethrucards.com/product/291492/The-Everdeck  
+Compra già pronto: https://www.makeplayingcards.com/sell/marketplace/the-everdeck.html  
   - Memory
   - Bingo
   - Giochi con le carte dei Tarocchi
