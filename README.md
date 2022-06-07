@@ -119,7 +119,7 @@ Compra già pronto: https://www.makeplayingcards.com/sell/marketplace/the-everde
 - Piecepack https://piecepack.net
 - Looney Pyramids https://www.looneylabs.com/pyramids-home
 - Scacchi giapponesi (Shogi)
-  - Versione da rendere magnetica grazie al set Reversi (vedi sopra)
+  - Versione che può diventare magnetica grazie al set Reversi (vedi sopra)
 - Domino
 - Scamorra.com
 - Onitama
