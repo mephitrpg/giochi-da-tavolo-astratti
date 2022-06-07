@@ -15,7 +15,7 @@ Esistono giochi astratti moderni e divertenti, dai più semplici ai più comples
 Alcuni esempi: 
   - Plop, di Alex Randolph
   - La Scamorra, di Ivan Preziosi
-  - Regicide
+  - Regicide, dei Badgers from Mars
 
 Questo progetto predilige l'uso di componenti magnetiche per essere più fruibile da bambini e ragazzini, dato che mentre giocano potrebbe essere chiesto loro di spostarsi, o che un urto potrebbe mandare a monte la partita. Senza contare che si tratta di una caratteristica utile anche in viaggio.
 
