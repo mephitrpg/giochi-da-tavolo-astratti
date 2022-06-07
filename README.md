@@ -118,7 +118,9 @@ Compra già pronto: https://www.makeplayingcards.com/sell/marketplace/the-everde
   - https://boardgamegeek.com/geeklist/230703/games-playable-everdeck
 - Decktet https://www.decktet.com
 - Piecepack https://piecepack.net
-- Looney Pyramids https://www.looneylabs.com/pyramids-home
+- Looney Pyramids  
+Sito ufficiale: https://www.looneylabs.com/pyramids-home  
+Download: https://boardgamegeek.com/filepage/93929/diy-printable-pyramids  
 - Scacchi giapponesi (Shogi)
   - Versione che può diventare magnetica grazie al set Reversi (vedi sopra)
 - Domino
