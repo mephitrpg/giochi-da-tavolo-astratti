@@ -57,6 +57,14 @@ Giochi:
   - Rubamazzo
 - Tarocchi
   - Gioco dei tarocchi
+- Pedine impilabili colorate
+  - Codice segreto travel, 10 x 6 colori + segnalini B/W (compra 2 set!) https://www.amazon.it/Purple-Codice-Segreto-Magnetico-7290016026900/dp/B085272WHQ
+    - Codice segreto (perchè la versione classica ha 12 righe, e non 10 come il set di cui sopra)
+    - Can't Stop
+    - Halma
+- Reversi
+  - https://www.aliexpress.com/item/1005002488483402.html
+  - Forza 4
 - Dadi
   - 8mm, bianchi https://it.aliexpress.com/item/1005001711632152.html
     - Perudo
@@ -70,14 +78,6 @@ Giochi:
   - https://www.ebay.it/itm/393094935426
   - Gobang
   - Hex
-- Pedine colorate
-  - Codice segreto travel, 10 x 6 colori + segnalini B/W (compra 2 set!) https://www.amazon.it/Purple-Codice-Segreto-Magnetico-7290016026900/dp/B085272WHQ
-    - Codice segreto (perchè la versione classica ha 12 righe, e non 10 come il set di cui sopra)
-    - Can't Stop
-    - Halma
-- Reversi
-  - https://www.aliexpress.com/item/1005002488483402.html
-  - Forza 4
 - Biglie (quelle di vetro sono bellissime e consigliate, ma pesano)
   - Pozioni Esplosive, 16mm acrilico, 20 x 4 colori = 80
     -  https://www.amazon.it/Ghenos-Games-Pozioni-Esplosive-Edizione/dp/B07JP3CXLK
