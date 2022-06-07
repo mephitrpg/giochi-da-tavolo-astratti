@@ -6,7 +6,7 @@ Questo progetto nasce dallo sdegno nel vedere le scatole di "Giochi Riuniti" att
 
 Decine, centinaia di giochi in una scatola? Sì, ma la maggior parte viene fatta con un mazzo da 54 carte da gioco francesi o con componenti che probabilmente posseggo già: perchè ricomprarli?
 
-Oltretutto, questi componenti sono spesso di scarsa qualità e in versione ridotta: carte francesi 1 mazzo anzichè 2, domino 28 pezzi anzichè 91 (o 55, o più), shanghai 31 pezzi anzichè 41, jenga 48 pezzi anzichè 54, ecc.
+Oltretutto, questi componenti sono spesso di scarsa qualità e in versione ridotta sia di dimensioni che di quantità di componenti: carte francesi 1 mazzo anzichè 2, domino 28 pezzi anzichè 91 (o 55, o più), shanghai 31 pezzi anzichè 41, jenga 48 pezzi anzichè 54, ecc.
 
 Per far giocare più di 2 giocatori contemporaneamente, oltre ai classici giochi di carte vengono aggiunti i noiosissimi "Ludo", "Scale e Serpenti", "Gioco dell'Oca" e così via, anche perchè si tratta di giochi di dominio pubblico. Mi rifiuto di inserirli in questa raccolta: se proprio lo vorrete, lo potrete fare voi.
 
