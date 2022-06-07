@@ -65,6 +65,7 @@ Giochi:
 - Reversi
   - https://www.aliexpress.com/item/1005002488483402.html
   - Forza 4
+  - vedi sezione PnP più in basso
 - Dadi
   - 8mm, bianchi https://it.aliexpress.com/item/1005001711632152.html
     - Perudo
@@ -118,6 +119,7 @@ Compra già pronto: https://www.makeplayingcards.com/sell/marketplace/the-everde
 - Piecepack https://piecepack.net
 - Looney Pyramids https://www.looneylabs.com/pyramids-home
 - Scacchi giapponesi (Shogi)
+  - Versione da rendere magnetica grazie al set Reversi (vedi sopra)
 - Domino
 - Scamorra.com
 - Onitama
