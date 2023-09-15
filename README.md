@@ -29,12 +29,18 @@ Scacchiera magnetica:
 Scatola:
   - la scatola di un pigiama o di una camicia
   - un archivio raccoglitore formato protocollo di almeno 30cm di profondità https://www.amazon.it/Esselte-Protocollo-390775160-Raccoglitore-meccanismo/dp/B007ISVPF6
+  - fai-da-te una scatola di cartone
+    - misure consigliate: 33x33x8 cm, così da
+      - contenere fogli A4
+      - contenere fogli A3 tagliati quadrati (i tabelloni)
+      - entrare nella libreria Kallax dell'IKEA
+    - https://www.youtube.com/watch?v=hCJGcJFoSXY
+    - https://www.youtube.com/watch?v=67qrTPlEgOo
+  - scatola di legno (costosa) https://www.ebay.it/itm/133652914832
 
 In caroleria comprare:
-- 
 - buste ad anelli
 - copertina trasparente A3 per rilegatura a spirale, da tagliare quadrata
-
 
 Giochi:
 - Dama
