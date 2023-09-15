@@ -95,11 +95,12 @@ Giochi:
     -  espansione Il 5° Ingrediente: 12 biglie bianche
     -  espansione Il 6° Studente: 12 biglie verdi
   - 16mm vetro, set da 10 x 6 colori = 60 (compra due set!) https://www.amazon.it/Yellow-Mountain-Imports-Biglie-Cinese/dp/B01LYO3K8L
+  - 16mm acrilico, set da 10 x 1 colore = 10 (compra 12 set!) https://www.aliexpress.com/item/1005005992658256.html
+  - Giochi:
     - Solitario della Bastiglia
     - Mancala
     - Abalone
     - Shibumi https://www.nestorgames.com/rulebooks/SHIBUMI_EN.pdf
-  - 16mm acrilico, set da 10 x 1 colore = 10 (compra 12 set!) https://www.aliexpress.com/item/1005005992658256.html
 - Shangai
   - https://www.toyscenter.it/prodotto/zig-zag-clas-mikado-legno-26cm
   - https://www.amazon.it/Grandi-Giochi-95002-GG95002-Mikado/dp/B00ECV85FA
