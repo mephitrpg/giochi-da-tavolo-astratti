@@ -93,7 +93,7 @@ Giochi:
     - Mancala
     - Abalone
     - Shibumi https://www.nestorgames.com/rulebooks/SHIBUMI_EN.pdf
-  - 16mm acrilico, set da 10 x 6 colori = 60 (compra due set!) https://www.aliexpress.com/item/1005005992658256.html
+  - 16mm acrilico, set da 10 x 1 colore = 10 (compra 12 set!) https://www.aliexpress.com/item/1005005992658256.html
 - Shangai
   - https://www.toyscenter.it/prodotto/zig-zag-clas-mikado-legno-26cm
   - https://www.amazon.it/Grandi-Giochi-95002-GG95002-Mikado/dp/B00ECV85FA
