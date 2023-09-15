@@ -57,6 +57,10 @@ Giochi:
   - Rubamazzo
 - Tarocchi
   - Gioco dei tarocchi
+- Everdeck
+  Tantissimi giochi di carte, come ad esempio:
+  - Skat
+  - https://boardgamegeek.com/geeklist/303652/more-games-playable-everdeck
 - Pedine impilabili colorate
   - Codice segreto travel, 10 x 6 colori + segnalini B/W (compra 2 set!) https://www.amazon.it/Purple-Codice-Segreto-Magnetico-7290016026900/dp/B085272WHQ
     - Codice segreto (la versione classica ha 12 righe, e non 10 come il set di cui sopra)
