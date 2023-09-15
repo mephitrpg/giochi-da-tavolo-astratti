@@ -105,7 +105,7 @@ Giochi:
 
 Si possono usare i materiali più disparati: cartone, carta adesiva, forex/foamcore, legno, stampa 3D, ecc.
 
-Conoscere l'inglese è quasi indispensabile, e saper usare Photoshop aiuta parecchio.
+Conoscere l'inglese è indispensabile, mentre saper usare Photoshop aiuta parecchio ma non è indispensabile.
 
 - Everdeck  
 Sito ufficiale: https://thewrongtools.wordpress.com/2019/10/10/the-everdeck/  
