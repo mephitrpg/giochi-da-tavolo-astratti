@@ -7,7 +7,7 @@ Questo progetto nasce dallo sdegno nel vedere le scatole di "Giochi Riuniti" att
 Decine, centinaia di giochi in una scatola? Sì, ma la maggior parte viene fatta con un mazzo da 54 carte da gioco francesi o con componenti che probabilmente posseggo già: perchè ricomprarli?
 
 Oltretutto, questi componenti sono spesso di scarsa qualità e in versione ridotta sia di dimensioni che di quantità di componenti: carte francesi 1 mazzo anzichè 2, domino 28 pezzi anzichè 91 (o 55, o più), shanghai 31 pezzi anzichè 41, jenga 48 pezzi anzichè 54, ecc.
-
+ev
 Per far giocare più di 2 giocatori contemporaneamente, oltre ai classici giochi di carte vengono aggiunti i noiosissimi "Ludo", "Scale e Serpenti", "Gioco dell'Oca" e così via, anche perchè si tratta di giochi di dominio pubblico. Mi rifiuto di inserirli in questa raccolta: se proprio lo vorrete, lo potrete fare voi.
 
 Esistono giochi astratti moderni e divertenti, dai più semplici ai più complessi, alcuni addirittura introvabili ma facimente realizzabili. 
@@ -57,10 +57,6 @@ Giochi:
   - Rubamazzo
 - Tarocchi
   - Gioco dei tarocchi
-- Everdeck
-  - Tantissimi giochi di carte, come ad esempio:
-    - Skat
-    - https://boardgamegeek.com/geeklist/303652/more-games-playable-everdeck
 - Pedine impilabili colorate
   - Codice segreto travel, 10 x 6 colori + segnalini B/W (compra 2 set!) https://www.amazon.it/Purple-Codice-Segreto-Magnetico-7290016026900/dp/B085272WHQ
     - Codice segreto (la versione classica ha 12 righe, e non 10 come il set di cui sopra)
@@ -118,6 +114,7 @@ Compra alta qualità: https://www.drivethrucards.com/product/291492/The-Everdeck
 Compra già pronto: https://www.makeplayingcards.com/sell/marketplace/the-everdeck.html  
   - Memory
   - Bingo
+  - Skat
   - Giochi con le carte dei Tarocchi
   - Giochi con le carte Hanafuda
   - https://boardgamegeek.com/geeklist/230703/games-playable-everdeck
