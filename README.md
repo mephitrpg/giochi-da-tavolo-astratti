@@ -26,8 +26,12 @@ Tabelloni stampabili:
 Scacchiera magnetica:
 - Lexibook, 8 Giochi in 1 https://www.amazon.it/gp/product/B08SBNNX8N (getta i tabelloni nella spazzatura)
 
+Scatola:
+  - la scatola di un pigiama o di una camicia
+  - un archivio raccoglitore formato protocollo di almeno 30cm di profondità https://www.amazon.it/Esselte-Protocollo-390775160-Raccoglitore-meccanismo/dp/B007ISVPF6
+
 In caroleria comprare:
-- https://www.amazon.it/Esselte-Protocollo-390775160-Raccoglitore-meccanismo/dp/B007ISVPF6
+- 
 - buste ad anelli
 - copertina trasparente A3 per rilegatura a spirale, da tagliare quadrata
 
